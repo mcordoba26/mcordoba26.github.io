@@ -1,16 +1,14 @@
-## Hi there 👋
+# Meyel Córdoba — Portafolio Full Stack & Systems
 
-<!--
-**mcordoba26/mcordoba26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Portafolio web moderno, minimalista y de alto rendimiento inspirado en estéticas oscuras de vanguardia (tema oscuro tipo VoidHost, acentos violeta/indigo, tipografía monoespaciada para código y efectos de resplandor sutiles).
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías y Stack
+- **Frontend**: React 19, TypeScript, Tailwind CSS, Lucide Icons
+- **Especialidad**: Full Stack Web, Microservicios, Scripting y Arquitecturas de Alto Rendimiento
+- **Lenguajes Dominados**: JavaScript, TypeScript, Python, Lua, C#, C++, Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Personalización de Proyectos
+Toda la información personal, habilidades y proyectos están centralizados en:
+`/src/data/portfolioData.ts`
+
+Para agregar o modificar tus proyectos reales, solo edita el array `INITIAL_PROJECTS` en ese archivo.
